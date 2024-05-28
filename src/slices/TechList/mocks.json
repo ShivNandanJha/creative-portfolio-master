@@ -18,7 +18,7 @@
 						{
 							"__TYPE__": "FieldContent",
 							"type": "Text",
-							"value": "React"
+							"value": "Data Science"
 						}
 					],
 					[
@@ -39,7 +39,7 @@
 						{
 							"__TYPE__": "FieldContent",
 							"type": "Text",
-							"value": "Next.js"
+							"value": "Deep Learning"
 						}
 					],
 					[
@@ -60,7 +60,7 @@
 						{
 							"__TYPE__": "FieldContent",
 							"type": "Text",
-							"value": "GSAP"
+							"value": "NLP"
 						}
 					],
 					[
